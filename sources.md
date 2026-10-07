@@ -38,3 +38,9 @@ Website: https://www.dahpn.gwi.uni-muenchen.de/
 ## מדיניות מקור
 
 לכל שם רצוי לשמור לפחות מקור אחד. בשמות שיש לגביהם מחלוקת אטימולוגית, יש לציין זאת ולהוריד את רמת הביטחון. אין להעתיק טקסט מוגן מאתרי פירושי שמות מסחריים.
+
+
+## Behind the Name
+- Used only as a secondary/manual verification source for selected name etymologies when stronger open linguistic sources are unavailable.
+- Explanatory prose is not copied; the project stores short original Hebrew paraphrases of name facts.
+- Behind the Name content is not treated as an open bulk-reuse dataset.
