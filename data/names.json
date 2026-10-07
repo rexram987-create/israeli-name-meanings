@@ -1,7 +1,7 @@
 {
-  "schema_version": "0.1",
+  "schema_version": "0.2",
   "generated": "2026-10-07",
-  "note": "Curated draft dataset. Meanings are short Hebrew paraphrases and should be reviewed before marking as reviewed.",
+  "note": "Curated draft dataset. Targeted source checks are recorded separately from full review. Legacy source labels without precise links remain unverified. All records remain draft.",
   "names": [
     {
       "id": "david",
@@ -1807,13 +1807,26 @@
       "name_en": "Yahli",
       "gender": "זכר/נקבה",
       "origin": "עברי מודרני",
-      "meaning_he": "שם מודרני הקשור למרכיב ״יה״; פירושו המדויק אינו אחיד.",
-      "etymology_he": "נוצר כנראה מצירופים מודרניים סביב המרכיב התאופורי ״יה״.",
+      "meaning_he": "שם מודרני המתפרש כקשור לאור, או כצירוף ״יה״ ו״לי״.",
+      "etymology_he": "יש המפרשים את השם כגזירה מן הפועל יָהֵל, ויש המפרשים אותו כצירוף עם שם האל. אלה פירושים לשם מודרני, ולא אטימולוגיה היסטורית מוכחת.",
       "sources": [
-        "Wikidata"
+        "בייבילנד — אתר השמות הגדול"
       ],
       "confidence": "low",
-      "status": "draft"
+      "status": "draft",
+      "source_links": [
+        {
+          "label": "בייבילנד — אתר השמות הגדול",
+          "url": "https://babynames.baby-land.co.il/namelist/יהלי/",
+          "supports": [
+            "meaning_he",
+            "etymology_he"
+          ],
+          "kind": "secondary"
+        }
+      ],
+      "research_date": "2026-10-07",
+      "research_notes_he": "המקור הוא אתר שמות מסחרי, המשמש רק לתיעוד פירושים נפוצים. אין בכך אימות מחקרי; רמת הביטחון נותרה נמוכה."
     },
     {
       "id": "lia",
@@ -3958,13 +3971,36 @@
       "name_en": "Yanai",
       "gender": "זכר",
       "origin": "עברי/יהודי",
-      "meaning_he": "שם יהודי עתיק; משמעותו האטימולוגית אינה ודאית.",
-      "etymology_he": "מוכר מתקופת בית שני וחז״ל; אין פירוש יחיד מוסכם.",
+      "meaning_he": "שם יהודי עתיק שמשמעותו אינה ודאית.",
+      "etymology_he": "הצורה המודרנית של יַנַּאי, שם הידוע מן התקופה החשמונאית ומספרות חז״ל. האטימולוגיה אינה מוסכמת.",
       "sources": [
-        "Wikidata"
+        "Behind the Name"
       ],
       "confidence": "low",
-      "status": "draft"
+      "status": "draft",
+      "source_links": [
+        {
+          "label": "Behind the Name",
+          "url": "https://www.behindthename.com/name/yanai",
+          "supports": [
+            "origin",
+            "etymology_he"
+          ],
+          "kind": "secondary"
+        },
+        {
+          "label": "Behind the Name",
+          "url": "https://www.behindthename.com/name/yanna02i",
+          "supports": [
+            "origin",
+            "meaning_he",
+            "etymology_he"
+          ],
+          "kind": "secondary"
+        }
+      ],
+      "research_date": "2026-10-07",
+      "research_notes_he": "נמצא תיעוד ממוקד לעתיקות השם ולאי־הוודאות במשמעות. רמת הביטחון בפירוש נותרה נמוכה."
     },
     {
       "id": "shaul",
@@ -4371,14 +4407,36 @@
       "name_he": "שילת",
       "name_en": "Shilat",
       "gender": "נקבה",
-      "origin": "עברי מודרני",
-      "meaning_he": "שם מודרני; פירושו האטימולוגי אינו מוסכם.",
-      "etymology_he": "קיימים ניתוחים שונים, אך אין אטימולוגיה עברית מוסכמת אחת.",
+      "origin": "עברי/יהודי",
+      "meaning_he": "שם המשמש כיום בישראל; המשמעות ההיסטורית אינה ודאית.",
+      "etymology_he": "הצורה שילת מופיעה בכינוי התלמודי שמואל בר שילת. כיום יש המפרשים את השם כראשי תיבות של פסוק מתהילים טז, ח; אין בכך הוכחה למקורו הקדום.",
       "sources": [
-        "Wikidata"
+        "תלמוד בבלי — ספריא",
+        "מטרנה — שילת"
       ],
       "confidence": "low",
-      "status": "draft"
+      "status": "draft",
+      "source_links": [
+        {
+          "label": "תלמוד בבלי — ספריא",
+          "url": "https://www.sefaria.org/Bava_Batra.21a.1-13/",
+          "supports": [
+            "etymology_he"
+          ],
+          "kind": "primary"
+        },
+        {
+          "label": "מטרנה — שילת",
+          "url": "https://www.materna.co.il/שמות-לתינוקות/פירוש-השם-שילת",
+          "supports": [
+            "meaning_he",
+            "etymology_he"
+          ],
+          "kind": "secondary"
+        }
+      ],
+      "research_date": "2026-10-07",
+      "research_notes_he": "הופרד התיעוד התלמודי מן הפירוש המאוחר כראשי תיבות. אין משמעות אטימולוגית ודאית."
     },
     {
       "id": "einav",
@@ -4386,13 +4444,35 @@
       "name_en": "Einav",
       "gender": "נקבה",
       "origin": "עברי",
-      "meaning_he": "קשור לעין ולענב; השם המודרני אינו בעל פירוש יחיד מוסכם.",
-      "etymology_he": "שם ישראלי מודרני, כנראה צירוף או גזירה עברית; האטימולוגיה אינה חד־משמעית.",
+      "meaning_he": "ענב — פרי הגפן.",
+      "etymology_he": "שם עברי מן המילה עֵנָב, הנכתבת בשם הפרטי גם עינב.",
       "sources": [
-        "Wikidata"
+        "Behind the Name",
+        "מילון בן־יהודה"
       ],
-      "confidence": "low",
-      "status": "draft"
+      "confidence": "high",
+      "status": "draft",
+      "source_links": [
+        {
+          "label": "Behind the Name",
+          "url": "https://www.behindthename.com/name/einav",
+          "supports": [
+            "meaning_he",
+            "etymology_he"
+          ],
+          "kind": "secondary"
+        },
+        {
+          "label": "מילון בן־יהודה",
+          "url": "https://benyehuda.org/dict/24412/51870",
+          "supports": [
+            "meaning_he"
+          ],
+          "kind": "lexical"
+        }
+      ],
+      "research_date": "2026-10-07",
+      "research_notes_he": "הוסר הניתוח הבלתי מבוסס כצירוף עין וענב. המקור לשם מציין שימוש בשני המגדרים; הסיווג הקיים לפי שימוש בישראל דורש בדיקת שכיחות נפרדת."
     },
     {
       "id": "dov",
@@ -4565,7 +4645,8 @@
         "DAHPN"
       ],
       "confidence": "medium",
-      "status": "draft"
+      "status": "draft",
+      "canonical_name_id": "osnat"
     },
     {
       "id": "yaara",
@@ -4889,14 +4970,38 @@
       "name_he": "אימרי",
       "name_en": "Imri",
       "gender": "זכר",
-      "origin": "עברי מודרני",
-      "meaning_he": "מקובל לקשור לאמירה או ל״אמרי״; פירושו המדויק אינו מוסכם.",
-      "etymology_he": "שם מודרני המבוסס כנראה על השורש א־מ־ר.",
+      "origin": "עברי/מקראי",
+      "meaning_he": "שם מקראי; הוצע לפרשו כקשור לדיבור או לרהיטות.",
+      "etymology_he": "השם אִמְרִי מופיע בדברי הימים א ט, ד ובנחמיה ג, ב. פירוש הקשור לדיבור הוא הצעה אטימולוגית, ולא משמעות ודאית.",
       "sources": [
-        "Wikidata"
+        "Behind the Name",
+        "Hebrew Explorer — Strong H566"
       ],
-      "confidence": "low",
-      "status": "draft"
+      "confidence": "medium",
+      "status": "draft",
+      "source_links": [
+        {
+          "label": "Behind the Name",
+          "url": "https://www.behindthename.com/name/imri/",
+          "supports": [
+            "origin",
+            "meaning_he",
+            "etymology_he"
+          ],
+          "kind": "secondary"
+        },
+        {
+          "label": "Hebrew Explorer — Strong H566",
+          "url": "https://hebrewexplorer.com/hebrew-names/imri/",
+          "supports": [
+            "origin",
+            "etymology_he"
+          ],
+          "kind": "lexical"
+        }
+      ],
+      "research_date": "2026-10-07",
+      "research_notes_he": "תוקן הסיווג משם מודרני לשם מקראי. ההופעה במקרא מבוססת; הפירוש נותר מסויג."
     },
     {
       "id": "nevo",
@@ -5431,13 +5536,26 @@
       "name_en": "Hili",
       "gender": "נקבה",
       "origin": "עברי מודרני",
-      "meaning_he": "שם מודרני; לעיתים מקושר להילה או לזוהר.",
-      "etymology_he": "אין אטימולוגיה עברית מוסכמת אחת.",
+      "meaning_he": "מקובל לפרש כ״היא לי״ — היא שלי.",
+      "etymology_he": "שם עברי מודרני המפורש כצירוף היא ולי. לא נמצא בבדיקה זו ביסוס לקישור הקודם להילה.",
       "sources": [
-        "Wikidata"
+        "Behind the Name"
       ],
-      "confidence": "low",
-      "status": "draft"
+      "confidence": "medium",
+      "status": "draft",
+      "source_links": [
+        {
+          "label": "Behind the Name",
+          "url": "https://www.behindthename.com/name/hili",
+          "supports": [
+            "meaning_he",
+            "etymology_he"
+          ],
+          "kind": "secondary"
+        }
+      ],
+      "research_date": "2026-10-07",
+      "research_notes_he": "הפירוש מבוסס על מקור משני ממוקד; לא אותר מקור מחקרי עצמאי לתולדות יצירת השם."
     },
     {
       "id": "elior",
@@ -5487,14 +5605,27 @@
       "name_he": "אודל",
       "name_en": "Odel",
       "gender": "נקבה",
-      "origin": "עברי מודרני",
-      "meaning_he": "שם מודרני; מקובל לקשר להודיה או להלל.",
-      "etymology_he": "אין אטימולוגיה מוסכמת אחת.",
+      "origin": "לא מוכרע",
+      "meaning_he": "שם בעל כמה הסברים מוצעים; לא נקבע פירוש אטימולוגי ודאי.",
+      "etymology_he": "יש הקושרים לצורות אדל/Adele, ויש המציעים פירוש עברי של הודיה. בבדיקה זו נמצא ערך שהוזן בידי משתמשים, שאינו מספיק להכרעה.",
       "sources": [
-        "Wikidata"
+        "Behind the Name — user submission"
       ],
       "confidence": "low",
-      "status": "draft"
+      "status": "draft",
+      "source_links": [
+        {
+          "label": "Behind the Name — user submission",
+          "url": "https://www.behindthename.com/name/odel/submitted",
+          "supports": [
+            "meaning_he",
+            "etymology_he"
+          ],
+          "kind": "user_submission"
+        }
+      ],
+      "research_date": "2026-10-07",
+      "research_notes_he": "המקור נכתב בידי משתמשים ולא הוצג כמקור מחקרי מאומת. המקור הלשוני ורמת הביטחון עדיין דורשים בירור."
     },
     {
       "id": "alona",
@@ -5530,13 +5661,25 @@
       "name_en": "Yochai",
       "gender": "זכר",
       "origin": "עברי/יהודי",
-      "meaning_he": "שם יהודי עתיק; מקובל לקשר לחיים או לשם ה׳, אך הפירוש אינו ודאי.",
-      "etymology_he": "שם מן התקופה התנאית; האטימולוגיה המדויקת אינה מוסכמת.",
+      "meaning_he": "שם יהודי עתיק; פירוש נפוץ הוא ״האל חי״, אך הוא טעון אימות לשוני.",
+      "etymology_he": "הפירוש המקובל קושר את השם למרכיב של שם האל ולחיים. לא אותר בבדיקה זו ניתוח מחקרי שמכריע באטימולוגיה.",
       "sources": [
-        "Wikidata"
+        "Kveller — Yochai"
       ],
       "confidence": "low",
-      "status": "draft"
+      "status": "draft",
+      "source_links": [
+        {
+          "label": "Kveller — Yochai",
+          "url": "https://www.kveller.com/jewish-baby-name/yochai/",
+          "supports": [
+            "meaning_he"
+          ],
+          "kind": "secondary"
+        }
+      ],
+      "research_date": "2026-10-07",
+      "research_notes_he": "הפירוש נמצא בתמצית תוצאת חיפוש של המקור; העמוד המלא החזיר 403. התמיכה מוגבלת ורמת הביטחון נותרה נמוכה."
     },
     {
       "id": "nimrod",
@@ -6043,13 +6186,26 @@
       "name_en": "Anel",
       "gender": "נקבה",
       "origin": "עברי מודרני/בינלאומי",
-      "meaning_he": "שם מודרני; לעיתים מפורש כצירוף עם המרכיב ״אל״.",
-      "etymology_he": "אין אטימולוגיה מוסכמת אחת.",
+      "meaning_he": "פירוש עברי נפוץ: פנייה לאל בבקשה או בתחינה.",
+      "etymology_he": "בפירוש העברי המודרני השם מנותח כצירוף אנא ואל. אין בכך הוכחה שזה מקורם של כל השמות הדומים בשפות אחרות.",
       "sources": [
-        "Wikidata"
+        "בייבילנד — אתר השמות הגדול"
       ],
       "confidence": "low",
-      "status": "draft"
+      "status": "draft",
+      "source_links": [
+        {
+          "label": "בייבילנד — אתר השמות הגדול",
+          "url": "https://babynames.baby-land.co.il/namelist/אנאל/",
+          "supports": [
+            "meaning_he",
+            "etymology_he"
+          ],
+          "kind": "secondary"
+        }
+      ],
+      "research_date": "2026-10-07",
+      "research_notes_he": "תועד פירוש נפוץ ממקור משני מסחרי; לא נקבעה אטימולוגיה מחקרית. סיווג המגדר במקור שונה מהמאגר וטעון בדיקת שימוש בישראל."
     },
     {
       "id": "yagel",
@@ -6205,7 +6361,8 @@
         "Wikidata"
       ],
       "confidence": "high",
-      "status": "draft"
+      "status": "draft",
+      "canonical_name_id": "osnat"
     },
     {
       "id": "arik",
@@ -6257,13 +6414,25 @@
       "name_en": "Mali",
       "gender": "נקבה",
       "origin": "עברי/בינלאומי",
-      "meaning_he": "שם חיבה הנגזר משמות שונים; אין לו פירוש יחיד.",
-      "etymology_he": "בישראל משמש לעיתים כקיצור של שמות כגון מלכה, מרים או מלי עצמאית.",
+      "meaning_he": "שם חיבה; למשל, קיצור של מלכה. הפירוש תלוי בשם שממנו נגזר.",
+      "etymology_he": "קיים שימוש מתועד במלי לצד מלכה. אין להסיק שכל מי שנקראת מלי נושאת שם שנגזר ממלכה.",
       "sources": [
-        "Wikidata"
+        "המרכז הרפואי שיבא — מלכה־מלי קלר"
       ],
       "confidence": "low",
-      "status": "draft"
+      "status": "draft",
+      "source_links": [
+        {
+          "label": "המרכז הרפואי שיבא — מלכה־מלי קלר",
+          "url": "https://www.sheba.co.il/doctors/maly-keler",
+          "supports": [
+            "etymology_he"
+          ],
+          "kind": "documentary"
+        }
+      ],
+      "research_date": "2026-10-07",
+      "research_notes_he": "התיעוד הוא דוגמה לשימוש בצמד מלכה־מלי בתמצית החיפוש של אתר שיבא, ולא מחקר על מקור השם. אין פירוש יחיד מאומת."
     },
     {
       "id": "idit",
@@ -6903,7 +7072,8 @@
         "Wiktionary/Kaikki"
       ],
       "confidence": "high",
-      "status": "draft"
+      "status": "draft",
+      "canonical_name_id": "dikla"
     },
     {
       "id": "elisha",
@@ -6954,14 +7124,34 @@
       "name_he": "אליאן",
       "name_en": "Elian",
       "gender": "זכר/נקבה",
-      "origin": "בינלאומי/עברי מודרני",
-      "meaning_he": "שם מודרני בעל כמה מקורות אפשריים.",
-      "etymology_he": "מופיע בשפות שונות ולעיתים נתפס בישראל כשם עם המרכיב ״אל״.",
+      "origin": "בינלאומי — כמה מקורות אפשריים",
+      "meaning_he": "שם בעל כמה מקורות אפשריים; אין פירוש יחיד שניתן לייחס לכתיב העברי בלבד.",
+      "etymology_he": "הצורה הצרפתית Éliane נקשרת לשם הרומי Aelianus; הצורה ההולנדית Elian משמשת וריאנט של שמות המתחילים ב־Eli. יש לברר את השפה וההגייה לפני קביעת משמעות.",
       "sources": [
-        "Wikidata"
+        "Behind the Name"
       ],
       "confidence": "low",
-      "status": "draft"
+      "status": "draft",
+      "source_links": [
+        {
+          "label": "Behind the Name",
+          "url": "https://www.behindthename.com/name/e10liane",
+          "supports": [
+            "etymology_he"
+          ],
+          "kind": "secondary"
+        },
+        {
+          "label": "Behind the Name",
+          "url": "https://www.behindthename.com/name/elian",
+          "supports": [
+            "etymology_he"
+          ],
+          "kind": "secondary"
+        }
+      ],
+      "research_date": "2026-10-07",
+      "research_notes_he": "המקורות מתייחסים לצורות לועזיות שונות, ולא מוכיחים מה מקור השם הישראלי בכל מקרה. רמת הביטחון נשארה נמוכה."
     },
     {
       "id": "leo",
@@ -7174,7 +7364,8 @@
         "Wikidata"
       ],
       "confidence": "high",
-      "status": "draft"
+      "status": "draft",
+      "canonical_name_id": "dikla"
     }
   ]
 }
