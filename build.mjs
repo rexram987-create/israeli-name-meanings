@@ -1,0 +1,11 @@
+import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
+import { createHash } from 'node:crypto';
+await rm('dist', { recursive: true, force: true });
+await cp('web', 'dist', { recursive: true });
+await mkdir('dist/data', { recursive: true });
+await cp('data/names.json', 'dist/data/names.json');
+const hash = createHash('sha256');
+for (const file of ['web/index.html', 'web/app.js', 'web/styles.css', 'web/sw.js', 'web/manifest.webmanifest', 'data/names.json']) hash.update(await readFile(file));
+const worker = (await readFile('web/sw.js', 'utf8')).replaceAll('__CACHE_VERSION__', hash.digest('hex').slice(0, 16));
+await writeFile('dist/sw.js', worker);
+console.log('Built static PWA in dist/');

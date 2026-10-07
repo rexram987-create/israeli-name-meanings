@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#101427">
+  <meta name="description" content="חיפוש ב־500 רשומות של שמות ישראליים: פירוש, מקור לשוני ואטימולוגיה בעברית.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>שמות ישראליים — פירושים ומקורות</title>
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="/icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="/styles.css">
+  <script type="module" src="/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#search">לדלג לחיפוש</a>
+  <header class="site-header wrap">
+    <div class="brand"><img src="/icons/icon-192.png" width="48" height="48" alt=""><div><strong>שמות ישראליים</strong><span>פירושים ומקורות</span></div></div>
+    <button id="install" class="button secondary" type="button">התקנת יישומון</button>
+  </header>
+  <main class="wrap">
+    <section class="search-area" aria-labelledby="title">
+      <p class="eyebrow">השם והמשמעות שמאחוריו</p>
+      <h1 id="title">מה פירוש השם?</h1>
+      <form id="search-form" role="search">
+        <label for="search">חיפוש שם בעברית או באנגלית</label>
+        <div class="search-box"><input id="search" name="q" type="search" placeholder="למשל: רם, נועה או David" autocomplete="off" enterkeyhint="search"><button id="clear-search" type="button" aria-label="ניקוי החיפוש" hidden>×</button></div>
+      </form>
+      <div class="filters"><label for="gender">מגדר<select id="gender"><option value="all">כל השמות</option><option value="זכר">שמות לבנים</option><option value="נקבה">שמות לבנות</option><option value="זכר/נקבה">לשני המגדרים</option></select></label><label for="origin">מקור<select id="origin"><option value="all">כל המקורות</option><option value="biblical">מקראי</option><option value="hebrew">עברי</option><option value="international">בינלאומי</option></select></label></div>
+    </section>
+    <div class="results-heading"><h2>השמות במאגר</h2><span id="result-count" role="status" aria-live="polite">טוען שמות…</span></div>
+    <div id="error" class="notice" role="alert" hidden><p>לא הצלחנו לטעון את השמות. יש להתחבר לאינטרנט בפתיחה הראשונה.</p><button id="retry" class="button" type="button">לנסות שוב</button></div>
+    <div id="results" class="cards" aria-busy="true"></div>
+    <div id="empty" class="empty" hidden><h3>לא נמצא שם מתאים</h3><p>אפשר לנסות כתיב אחר או לשנות את הסינון.</p><button id="reset" class="button secondary" type="button">איפוס החיפוש והסינון</button></div>
+    <button id="load-more" class="button load-more" type="button" hidden>הצגת שמות נוספים</button>
+    <aside class="data-note"><strong>על המידע</strong><p>500 רשומות בבדיקה. פירושים מסוימים אינם ודאיים, וצורות כתיב שונות עשויות לייצג אותו שם. בכל שם אפשר לראות את רמת הביטחון ואת המקורות הזמינים.</p></aside>
+  </main>
+  <footer class="wrap"><span id="offline-status" role="status">מכין את היישומון לעבודה ללא אינטרנט…</span><a href="https://github.com/rexram987-create/israeli-name-meanings" target="_blank" rel="noopener noreferrer">המאגר ב־GitHub</a></footer>
+  <dialog id="name-dialog" aria-labelledby="detail-name"><div class="dialog-top"><span id="detail-origin" class="eyebrow"></span><button class="close" data-close type="button" aria-label="סגירת פרטי השם">×</button></div><h2 id="detail-name"></h2><p id="detail-english" class="english" dir="ltr"></p><div id="detail-badges" class="badges"></div><section class="detail-section"><h3>פירוש השם</h3><p id="detail-meaning" class="meaning"></p></section><section class="detail-section"><h3>המקור והאטימולוגיה</h3><p id="detail-etymology"></p></section><section id="variants-section" class="detail-section" hidden><h3>צורות כתיב נוספות</h3><div id="variants" class="badges"></div></section><details id="source-details"><summary>מקורות והערות בדיקה</summary><div id="detail-sources"></div></details><p class="draft-note">הרשומה עדיין בבדיקה. רמת הביטחון אינה אישור לבדיקה מלאה.</p></dialog>
+  <dialog id="install-dialog" aria-labelledby="install-title"><div class="dialog-top"><span class="eyebrow">תמיד בהישג יד</span><button class="close" data-close type="button" aria-label="סגירת הוראות ההתקנה">×</button></div><h2 id="install-title">התקנת היישומון</h2><p id="install-instructions"></p><p>אם האפשרות עדיין אינה מופיעה, פתחו את האתר ב־Chrome והמתינו כמה רגעים. לאחר פתיחה אחת ושמירת הנתונים, אפשר לחפש שמות גם ללא אינטרנט.</p></dialog>
+</body>
+</html>
