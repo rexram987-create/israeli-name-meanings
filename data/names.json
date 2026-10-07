@@ -2154,6 +2154,20 @@
       ],
       "confidence": "high",
       "status": "draft"
+    },
+    {
+      "id": "doron",
+      "name_he": "דורון",
+      "name_en": "Doron",
+      "gender": "זכר",
+      "origin": "עברי",
+      "meaning_he": "מתנה או מנחה.",
+      "etymology_he": "מן המילה העברית דּוֹרוֹן, במשמעות מתנה.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
     }
   ]
 }
