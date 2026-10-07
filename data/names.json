@@ -3090,12 +3090,13 @@
       "name_en": "Nofer",
       "gender": "נקבה",
       "origin": "עברי מודרני",
-      "meaning_he": "שם ישראלי מודרני; פירושו האטימולוגי אינו מוסכם.",
-      "etymology_he": "הוצעו קשרים לנוף או לצמחים, אך אין אטימולוגיה ברורה אחת.",
+      "meaning_he": "נופר — סוג של צמחי מים ממשפחת הנופריים.",
+      "etymology_he": "זהה לשם הבוטני העברי נוּפָר (Nuphar), המתועד במילוני האקדמיה.",
       "sources": [
+        "Academy of the Hebrew Language",
         "Wikidata"
       ],
-      "confidence": "low",
+      "confidence": "high",
       "status": "draft"
     },
     {
@@ -3940,12 +3941,13 @@
       "name_en": "Sigal",
       "gender": "נקבה",
       "origin": "עברי מודרני",
-      "meaning_he": "שם הקשור לסֶגֶל/סיגלון או לצבע סגול; הפירוש המדויק אינו חד־משמעי.",
-      "etymology_he": "שם מודרני עם כמה ניתוחים מקובלים.",
+      "meaning_he": "סיגל — שם של סוג צמחים ממשפחת הסיגליים (Viola), ובהם גם אמנון ותמר.",
+      "etymology_he": "מן המילה סִיגָל, שמקורה בארמית סִיגְלָא ושימשה כשם צמח.",
       "sources": [
-        "Wikidata"
+        "Wiktionary/Kaikki",
+        "Academy of the Hebrew Language"
       ],
-      "confidence": "low",
+      "confidence": "high",
       "status": "draft"
     },
     {
@@ -4598,12 +4600,13 @@
       "name_en": "Irit",
       "gender": "נקבה",
       "origin": "עברי מודרני",
-      "meaning_he": "שם הקשור לפרח האירוס/אירית או לאור; הפירוש המדויק אינו אחיד.",
-      "etymology_he": "שם מודרני בעל כמה ניתוחים אפשריים.",
+      "meaning_he": "שם פרטי לנקבה; לפי מקור לשוני אחד הוא צורת כתיב חלופית של עירית.",
+      "etymology_he": "ויקימילון, בהפניה למאמר האקדמיה, מציין את אירית כצורת כתיב חלופית של עירית, ולצדה אפשרות של התפתחות מן השם איריס. לכן מקור השם אינו חד־משמעי.",
       "sources": [
-        "Wikidata"
+        "Wiktionary/Kaikki",
+        "Academy of the Hebrew Language"
       ],
-      "confidence": "low",
+      "confidence": "medium",
       "status": "draft"
     },
     {
@@ -6320,12 +6323,13 @@
       "name_en": "Koren",
       "gender": "זכר",
       "origin": "עברי מודרני",
-      "meaning_he": "שם מודרני; מקובל לקשור לקרן או לאור.",
-      "etymology_he": "ייתכן שנגזר מן השורש ק־ר־ן, אך אין פירוש מוסכם אחד.",
+      "meaning_he": "קורן — זוהר, מפיץ אור או מקרין.",
+      "etymology_he": "מן הפועל קָרַן, מן השורש ק־ר־ן, במשמעות הפיץ קרני אור; האקדמיה משתמשת בקוֹרֵן כחלופה ל-radiant.",
       "sources": [
-        "Wikidata"
+        "Wiktionary/Kaikki",
+        "Academy of the Hebrew Language"
       ],
-      "confidence": "low",
+      "confidence": "high",
       "status": "draft"
     },
     {
