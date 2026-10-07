@@ -2884,20 +2884,6 @@
       ],
       "confidence": "high",
       "status": "draft"
-    },
-    {
-      "id": "tali",
-      "name_he": "טלי",
-      "name_en": "Tali",
-      "gender": "נקבה",
-      "origin": "עברי",
-      "meaning_he": "הטל שלי.",
-      "etymology_he": "מן המילה טַל בצירוף כינוי השייכות ־י.",
-      "sources": [
-        "Wiktionary/Kaikki"
-      ],
-      "confidence": "high",
-      "status": "draft"
     }
   ]
 }
