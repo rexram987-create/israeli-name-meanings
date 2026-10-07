@@ -6456,6 +6456,717 @@
       ],
       "confidence": "high",
       "status": "draft"
+    },
+    {
+      "id": "ayala",
+      "name_he": "איילה",
+      "name_en": "Ayala",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "איילה — נקבת האייל.",
+      "etymology_he": "זהה למילה אַיָּלָה.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "moti",
+      "name_he": "מוטי",
+      "name_en": "Moti",
+      "gender": "זכר",
+      "origin": "עברי/יהודי",
+      "meaning_he": "צורת חיבה נפוצה של מרדכי.",
+      "etymology_he": "נגזרת מן השם מרדכי.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "varda",
+      "name_he": "ורדה",
+      "name_en": "Varda",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "ורד; צורת נקבה הקשורה לפרח הוורד.",
+      "etymology_he": "נגזרת מן המילה וֶרֶד.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "kochava",
+      "name_he": "כוכבה",
+      "name_en": "Kochava",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "כוכב; צורת נקבה הקשורה לכוכב.",
+      "etymology_he": "נגזרת מן המילה כּוֹכָב.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "yochanan",
+      "name_he": "יוחנן",
+      "name_en": "Yochanan",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "ה׳ חנן / ה׳ נתן חסד.",
+      "etymology_he": "שם תאופורי המשלב צורה של שם ה׳ עם השורש ח־נ־נ.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "nitza",
+      "name_he": "ניצה",
+      "name_en": "Nitza",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "ניצן או פריחה.",
+      "etymology_he": "קשור למילה נִצָּן ולשורש נ־צ־ץ/נ־צ־נ.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "shiraz",
+      "name_he": "שירז",
+      "name_en": "Shiraz",
+      "gender": "נקבה",
+      "origin": "בינלאומי/פרסי",
+      "meaning_he": "שם המזוהה עם העיר שיראז שבאיראן; משמש גם כשם פרטי.",
+      "etymology_he": "שם גאוגרפי פרסי שהפך גם לשם פרטי.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "tzlil",
+      "name_he": "צליל",
+      "name_en": "Tzlil",
+      "gender": "זכר/נקבה",
+      "origin": "עברי",
+      "meaning_he": "צליל — קול בעל גובה ואופי מסוימים.",
+      "etymology_he": "זהה למילה צְלִיל.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "geula",
+      "name_he": "גאולה",
+      "name_en": "Geula",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "גאולה, פדות או שחרור.",
+      "etymology_he": "מן השורש ג־א־ל.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "ravid",
+      "name_he": "רביד",
+      "name_en": "Ravid",
+      "gender": "זכר/נקבה",
+      "origin": "עברי",
+      "meaning_he": "רביד — שרשרת או תכשיט צוואר.",
+      "etymology_he": "זהה למילה רָבִיד.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "mira",
+      "name_he": "מירה",
+      "name_en": "Mira",
+      "gender": "נקבה",
+      "origin": "בינלאומי",
+      "meaning_he": "שם בינלאומי בעל כמה מקורות ומשמעויות שונות.",
+      "etymology_he": "מופיע במסורות סלאביות, לטיניות ואחרות; אין אטימולוגיה יחידה.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "shimshon",
+      "name_he": "שמשון",
+      "name_en": "Shimshon",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "קשור לשמש.",
+      "etymology_he": "נגזר כנראה מן המילה שֶׁמֶשׁ; הסיומת עשויה לשקף צורת הקטנה או שם עתיק.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "amalia",
+      "name_he": "עמליה",
+      "name_en": "Amalia",
+      "gender": "נקבה",
+      "origin": "בינלאומי",
+      "meaning_he": "שם אירופי ממקור גרמאני הקשור לעמל או עשייה.",
+      "etymology_he": "מן היסוד הגרמאני amal, ״עמל/עשייה״.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "tom_intl",
+      "name_he": "טום",
+      "name_en": "Tom",
+      "gender": "זכר",
+      "origin": "בינלאומי",
+      "meaning_he": "שם בינלאומי, לרוב קיצור של Thomas.",
+      "etymology_he": "נגזר מן Thomas, שמקורו בארמית תאומא — ״תאום״.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "kobi",
+      "name_he": "קובי",
+      "name_en": "Kobi",
+      "gender": "זכר",
+      "origin": "עברי",
+      "meaning_he": "צורת חיבה נפוצה של יעקב.",
+      "etymology_he": "נגזרת מן השם יעקב.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "michaela",
+      "name_he": "מיכאלה",
+      "name_en": "Michaela",
+      "gender": "נקבה",
+      "origin": "עברי/בינלאומי",
+      "meaning_he": "צורת נקבה של מיכאל: מי כאל?",
+      "etymology_he": "נגזרת נשית של מיכאל.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "oshrit",
+      "name_he": "אושרית",
+      "name_en": "Oshrit",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "קשורה לאושר ולשמחה.",
+      "etymology_he": "נגזרת מן המילה אֹשֶׁר.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "hanoch",
+      "name_he": "חנוך",
+      "name_en": "Hanoch",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "חנוך, מחונך או מוקדש.",
+      "etymology_he": "קשור לשורש ח־נ־ך.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "ofra_alt",
+      "name_he": "עופרה",
+      "name_en": "Ofra",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "קשורה לעופר; צורת נקבה מודרנית.",
+      "etymology_he": "נגזרת מן המילה עֹפֶר.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "beni",
+      "name_he": "בני",
+      "name_en": "Beni",
+      "gender": "זכר",
+      "origin": "עברי",
+      "meaning_he": "בני — הבן שלי; גם קיצור של בנימין.",
+      "etymology_he": "מן המילה בֵּן בצירוף כינוי השייכות ־י, ולעיתים קיצור של בנימין.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "Wikidata"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "dorin",
+      "name_he": "דורין",
+      "name_en": "Dorin",
+      "gender": "נקבה",
+      "origin": "בינלאומי",
+      "meaning_he": "שם בינלאומי בעל כמה מקורות אפשריים.",
+      "etymology_he": "מופיע בכמה שפות, לעיתים כנגזרת של Dora/Dorina.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "darya",
+      "name_he": "דריה",
+      "name_en": "Darya",
+      "gender": "נקבה",
+      "origin": "פרסי/בינלאומי",
+      "meaning_he": "ים.",
+      "etymology_he": "מן הפרסית daryā, ״ים״.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "odia",
+      "name_he": "אודיה",
+      "name_en": "Odia",
+      "gender": "נקבה",
+      "origin": "עברי מודרני",
+      "meaning_he": "הודיה או הודאה לה׳, לפי פירוש מקובל.",
+      "etymology_he": "קשור לשורש י־ד־ה ולמרכיב התאופורי ״יה״.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "yariv",
+      "name_he": "יריב",
+      "name_en": "Yariv",
+      "gender": "זכר",
+      "origin": "עברי",
+      "meaning_he": "יריב — מתנגד או מתחרה.",
+      "etymology_he": "זהה למילה יָרִיב, מן השורש ר־י־ב.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "bluma",
+      "name_he": "בלומה",
+      "name_en": "Bluma",
+      "gender": "נקבה",
+      "origin": "יידיש/גרמאני",
+      "meaning_he": "פרח.",
+      "etymology_he": "מן היידיש/גרמנית Blume, ״פרח״.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "yardena",
+      "name_he": "ירדנה",
+      "name_en": "Yardena",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "קשורה לירדן.",
+      "etymology_he": "נגזרת מן השם ירדן.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "avinoam",
+      "name_he": "אבינועם",
+      "name_en": "Avinoam",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "אבי נועם / האב הוא נועם.",
+      "etymology_he": "מורכב מן המרכיב ״אבי״ ומהמילה נֹעַם.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "avivit",
+      "name_he": "אביבית",
+      "name_en": "Avivit",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "אביבית, קשורה לאביב.",
+      "etymology_he": "נגזרת מן המילה אָבִיב.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "amram",
+      "name_he": "עמרם",
+      "name_en": "Amram",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "שם מקראי; פירושו המדויק אינו ודאי.",
+      "etymology_he": "מוצעים ניתוחים שמיים שונים, אך אין הסכמה מלאה.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "lili",
+      "name_he": "לילי",
+      "name_en": "Lili",
+      "gender": "נקבה",
+      "origin": "בינלאומי",
+      "meaning_he": "שם בינלאומי, לרוב צורת חיבה של Lily או שמות דומים.",
+      "etymology_he": "קשור לעיתים למילה Lily — שושן.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "dikla",
+      "name_he": "דקלה",
+      "name_en": "Dikla",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "דקל; קשורה לעץ הדקל.",
+      "etymology_he": "נגזרת מן המילה דֶּקֶל.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "elisha",
+      "name_he": "אלישע",
+      "name_en": "Elisha",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "אל הוא ישועה / האל מושיע.",
+      "etymology_he": "שם תאופורי המשלב ״אל״ עם השורש י־ש־ע.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "loren",
+      "name_he": "לורן",
+      "name_en": "Lauren",
+      "gender": "נקבה",
+      "origin": "בינלאומי",
+      "meaning_he": "שם ממקור לטיני/צרפתי הקשור לעיר Laurentum ולעלי דפנה.",
+      "etymology_he": "נגזר ממשפחת השמות Laurentius/Lauren.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "aviram",
+      "name_he": "אבירם",
+      "name_en": "Aviram",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "אבי רם / האב נעלה.",
+      "etymology_he": "מורכב מן המרכיב ״אבי״ והתואר ״רם״.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "elian",
+      "name_he": "אליאן",
+      "name_en": "Elian",
+      "gender": "זכר/נקבה",
+      "origin": "בינלאומי/עברי מודרני",
+      "meaning_he": "שם מודרני בעל כמה מקורות אפשריים.",
+      "etymology_he": "מופיע בשפות שונות ולעיתים נתפס בישראל כשם עם המרכיב ״אל״.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "low",
+      "status": "draft"
+    },
+    {
+      "id": "leo",
+      "name_he": "ליאו",
+      "name_en": "Leo",
+      "gender": "זכר",
+      "origin": "לטיני/בינלאומי",
+      "meaning_he": "אריה.",
+      "etymology_he": "מן הלטינית leo, ״אריה״.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "uzi",
+      "name_he": "עוזי",
+      "name_en": "Uzi",
+      "gender": "זכר",
+      "origin": "עברי",
+      "meaning_he": "העוז שלי / הכוח שלי.",
+      "etymology_he": "מן המילה עֹז בצירוף כינוי השייכות ־י.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "tikva",
+      "name_he": "תקוה",
+      "name_en": "Tikva",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "תקווה, ציפייה לעתיד טוב.",
+      "etymology_he": "זהה למילה תִּקְוָה.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "achinoam",
+      "name_he": "אחינועם",
+      "name_en": "Achinoam",
+      "gender": "נקבה",
+      "origin": "עברי/מקראי",
+      "meaning_he": "אחי נועם / האח הוא נועם, לפי ניתוח השם.",
+      "etymology_he": "מורכב מן המרכיב ״אחי״ ומהמילה נֹעַם.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "dekel",
+      "name_he": "דקל",
+      "name_en": "Dekel",
+      "gender": "זכר/נקבה",
+      "origin": "עברי",
+      "meaning_he": "דקל — עץ ממשפחת הדקליים.",
+      "etymology_he": "זהה למילה דֶּקֶל.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "achiya",
+      "name_he": "אחיה",
+      "name_en": "Achiya",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "אחי הוא ה׳ / ה׳ הוא אחי.",
+      "etymology_he": "שם תאופורי המשלב ״אחי״ והמרכיב ״יה״.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "tziona",
+      "name_he": "ציונה",
+      "name_en": "Tziona",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "קשורה לציון.",
+      "etymology_he": "נגזרת מן השם ציון.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "shari",
+      "name_he": "שרי",
+      "name_en": "Shari",
+      "gender": "נקבה",
+      "origin": "עברי/בינלאומי",
+      "meaning_he": "בישראל לעיתים צורת חיבה של שרה; קיים גם כשם בינלאומי.",
+      "etymology_he": "עשוי להיגזר משרה או ממקורות אחרים בשפות שונות.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "yaala",
+      "name_he": "יעלה",
+      "name_en": "Yaala",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "יעלה — תעלה או תתרומם; לעיתים קשור גם ליעל.",
+      "etymology_he": "מן השורש ע־ל־ה; ייתכן גם קשר מודרני לשם יעל.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "nirit",
+      "name_he": "נירית",
+      "name_en": "Nirit",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "קשורה לניר — שדה חרוש.",
+      "etymology_he": "נגזרת מן המילה נִיר.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "yeshayahu",
+      "name_he": "ישעיהו",
+      "name_en": "Yeshayahu",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "ה׳ הוא ישועה.",
+      "etymology_he": "שם תאופורי המשלב את השורש י־ש־ע עם צורה של שם ה׳.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "atara",
+      "name_he": "עטרה",
+      "name_en": "Atara",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "כתר, עטרה או תפארת.",
+      "etymology_he": "זהה למילה עֲטָרָה.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "sagit",
+      "name_he": "שגית",
+      "name_en": "Sagit",
+      "gender": "נקבה",
+      "origin": "עברי מודרני",
+      "meaning_he": "שם הקשור לשגיא — גדול או נשגב.",
+      "etymology_he": "נגזרת מן המילה שַׂגִּיא.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "meshi",
+      "name_he": "משי",
+      "name_en": "Meshi",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "משי — סיב טבעי עדין ומבריק.",
+      "etymology_he": "זהה למילה מֶשִׁי.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "dikla_alt",
+      "name_he": "דיקלה",
+      "name_en": "Dikla",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "צורת כתיב של דקלה; קשורה לעץ הדקל.",
+      "etymology_he": "וריאנט כתיב של דקלה, מן המילה דֶּקֶל.",
+      "sources": [
+        "Wikidata"
+      ],
+      "confidence": "high",
+      "status": "draft"
     }
   ]
 }
