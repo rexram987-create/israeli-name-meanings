@@ -2304,12 +2304,13 @@
       "name_en": "Limor",
       "gender": "נקבה",
       "origin": "עברי מודרני",
-      "meaning_he": "שם ישראלי מודרני; הפירוש האטימולוגי אינו חד־משמעי.",
-      "etymology_he": "קיימים ניתוחים עממיים שונים, אך אין אטימולוגיה עברית מוסכמת אחת.",
+      "meaning_he": "המור שלי / לי מור.",
+      "etymology_he": "שם עברי מודרני המשלב ״לי״ עם מֹר, שרף ריחני ששימש לבשמים וקטורת.",
       "sources": [
-        "Wikidata"
+        "Behind the Name",
+        "Wiktionary/Kaikki"
       ],
-      "confidence": "low",
+      "confidence": "high",
       "status": "draft"
     },
     {
@@ -2603,12 +2604,12 @@
       "name_en": "Tahal",
       "gender": "נקבה",
       "origin": "עברי מודרני",
-      "meaning_he": "שם מודרני; מקובל לקשור לתהילה או להלל.",
-      "etymology_he": "כנראה קשור לשורש ה־ל־ל, אך אין אטימולוגיה מוסכמת אחת.",
+      "meaning_he": "שם מן השורש הל״ל, שעשוי להתקשר לאור או לשבח.",
+      "etymology_he": "האקדמיה ללשון מציינת את תָּהֵל לצד יָהֵל, הילה ותהילה כשמות הגזורים מן השורש הל״ל, שלו הוראות של אור ושל שבח.",
       "sources": [
-        "Wikidata"
+        "Academy of the Hebrew Language"
       ],
-      "confidence": "low",
+      "confidence": "high",
       "status": "draft"
     },
     {
@@ -3209,12 +3210,13 @@
       "name_en": "Nitai",
       "gender": "זכר",
       "origin": "עברי/יהודי",
-      "meaning_he": "שם יהודי עתיק; משמעותו האטימולוגית אינה ודאית.",
-      "etymology_he": "מוכר מן הספרות התנאית; לא קיים פירוש מוסכם אחד.",
+      "meaning_he": "שם יהודי עתיק; משמעותו אינה ודאית, וייתכן שהוא קשור ל״ניתן״ — דבר שניתן.",
+      "etymology_he": "שם מתקופת בית שני; מקור מודרני למחקר שמות מציין שמשמעותו אינה ודאית ומציע קשר אפשרי לצורה נִיתַּן.",
       "sources": [
+        "Behind the Name",
         "Wikidata"
       ],
-      "confidence": "low",
+      "confidence": "medium",
       "status": "draft"
     },
     {
@@ -4227,12 +4229,12 @@
       "name_en": "Lihi",
       "gender": "נקבה",
       "origin": "עברי מודרני",
-      "meaning_he": "שם מודרני; לעיתים מפורש כצירוף ״לי״ ו״הי/יה״.",
-      "etymology_he": "אין אטימולוגיה מוסכמת אחת.",
+      "meaning_he": "היא לי / היא שלי.",
+      "etymology_he": "שם עברי מודרני המנותח כצירוף ״לי״ + ״היא״.",
       "sources": [
-        "Wikidata"
+        "Behind the Name"
       ],
-      "confidence": "low",
+      "confidence": "high",
       "status": "draft"
     },
     {
@@ -4830,12 +4832,13 @@
       "name_en": "Yahel",
       "gender": "זכר/נקבה",
       "origin": "עברי מודרני",
-      "meaning_he": "מקובל לקשור ליהלום או לזוהר; הפירוש המדויק אינו אחיד.",
-      "etymology_he": "שם מודרני שנקשר לשורש ה־ל־ל/יהל או למילה יהלום.",
+      "meaning_he": "יאיר או יפיץ אור; השם קשור גם לשורש הל״ל.",
+      "etymology_he": "יָהֵל הוא פועל מקראי מן השורש הל״ל במשמעות האיר; האקדמיה מציינת אותו גם כשם הגזור משורש זה.",
       "sources": [
-        "Wikidata"
+        "Academy of the Hebrew Language",
+        "Wiktionary/Kaikki"
       ],
-      "confidence": "low",
+      "confidence": "high",
       "status": "draft"
     },
     {
@@ -5570,12 +5573,12 @@
       "name_en": "Liahi",
       "gender": "נקבה",
       "origin": "עברי מודרני",
-      "meaning_he": "שם מודרני; לעיתים מפורש כצירוף של ״לי״ ו״היא״ או רכיב ״יה״.",
-      "etymology_he": "אין אטימולוגיה מוסכמת אחת.",
+      "meaning_he": "היא לי / היא שלי.",
+      "etymology_he": "וריאנט כתיב של ליהי; שם עברי מודרני המנותח כצירוף ״לי״ + ״היא״.",
       "sources": [
-        "Wikidata"
+        "Behind the Name"
       ],
-      "confidence": "low",
+      "confidence": "high",
       "status": "draft"
     },
     {
@@ -6224,12 +6227,13 @@
       "name_en": "Akiva",
       "gender": "זכר",
       "origin": "יהודי/ארמי",
-      "meaning_he": "שם יהודי עתיק; משמעותו האטימולוגית אינה ודאית.",
-      "etymology_he": "שם מוכר מן הספרות התנאית, בצורות עקיבא/עקיבה.",
+      "meaning_he": "צורה ארמית של יעקב.",
+      "etymology_he": "השם עקיבא נחשב לצורה ארמית של יעקב; מכאן זיקתו ההיסטורית לשם יעקב ולשורש ע־ק־ב.",
       "sources": [
-        "Wikidata"
+        "Behind the Name",
+        "Wiktionary/Kaikki"
       ],
-      "confidence": "low",
+      "confidence": "medium",
       "status": "draft"
     },
     {
