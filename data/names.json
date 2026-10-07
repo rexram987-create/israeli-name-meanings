@@ -1,7 +1,7 @@
 {
   "schema_version": "0.1",
   "generated": "2026-10-07",
-  "note": "Initial curated draft sample. Meanings are short paraphrases and should be reviewed before marking as reviewed.",
+  "note": "Curated draft dataset. Meanings are short Hebrew paraphrases and should be reviewed before marking as reviewed.",
   "names": [
     {
       "id": "david",
@@ -360,6 +360,371 @@
         "Wiktionary/Kaikki"
       ],
       "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "moshe",
+      "name_he": "משה",
+      "name_en": "Moshe",
+      "gender": "זכר",
+      "origin": "מקראי",
+      "meaning_he": "במקרא מוסבר כמי שנמשה מן המים; ייתכן גם קשר לשם ממקור מצרי.",
+      "etymology_he": "ספר שמות קושר את השם לפועל מ־ש־ה, אך במחקר הוצע גם מקור מצרי.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "noam",
+      "name_he": "נועם",
+      "name_en": "Noam",
+      "gender": "זכר/נקבה",
+      "origin": "עברי",
+      "meaning_he": "נעימות, חן, נועם.",
+      "etymology_he": "מן המילה העברית נֹעַם, הקשורה לנעימות ולחן.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "noa",
+      "name_he": "נועה",
+      "name_en": "Noa",
+      "gender": "נקבה",
+      "origin": "עברי/מקראי",
+      "meaning_he": "שם מקראי; מקושר לעיתים לתנועה או לנוע.",
+      "etymology_he": "מקושר לשורש נ־ו־ע, אך האטימולוגיה המדויקת של השם המקראי אינה ודאית לחלוטין.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "yuval",
+      "name_he": "יובל",
+      "name_en": "Yuval",
+      "gender": "זכר/נקבה",
+      "origin": "עברי/מקראי",
+      "meaning_he": "יובל; במקרא גם שם פרטי, והמילה קשורה לזרימה או לשופר.",
+      "etymology_he": "השם מקראי; הוא קשור למילה יובל, שלה משמעויות היסטוריות אחדות.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "amit",
+      "name_he": "עמית",
+      "name_en": "Amit",
+      "gender": "זכר/נקבה",
+      "origin": "עברי",
+      "meaning_he": "חבר, בן־לוויה או עמית.",
+      "etymology_he": "זהה למילה העברית עָמִית.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "hannah",
+      "name_he": "חנה",
+      "name_en": "Hannah",
+      "gender": "נקבה",
+      "origin": "עברי/מקראי",
+      "meaning_he": "חן או חסד.",
+      "etymology_he": "קשור לשורש ח־נ־נ, הקשור לחן, חנינה וחסד.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "israel",
+      "name_he": "ישראל",
+      "name_en": "Yisrael",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "שם מקראי הקשור למאבק עם האל או לכך שהאל נאבק/שולט.",
+      "etymology_he": "שם תאופורי הכולל את המרכיב ״אל״; פירושו המדויק נתון לדיון לשוני.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "shlomo",
+      "name_he": "שלמה",
+      "name_en": "Shlomo",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "קשור לשלום ושלמות.",
+      "etymology_he": "נגזר מן השורש ש־ל־ם וממשפחת המילים שלום ושלם.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "yehuda",
+      "name_he": "יהודה",
+      "name_en": "Yehuda",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "במקרא נקשר להודיה או לשבח.",
+      "etymology_he": "מקושר לשורש י־ד־ה במשמעות הודיה ושבח.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "shai",
+      "name_he": "שי",
+      "name_en": "Shai",
+      "gender": "זכר/נקבה",
+      "origin": "עברי",
+      "meaning_he": "מתנה או מנחה.",
+      "etymology_he": "זהה למילה העברית שַׁי.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "shmuel",
+      "name_he": "שמואל",
+      "name_en": "Shmuel",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "שם מקראי שהוסבר במסורת כקשור לכך שהאל שמע.",
+      "etymology_he": "השם כולל את המרכיב ״אל״; האטימולוגיה המדויקת שנויה במחלוקת.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "omer",
+      "name_he": "עומר",
+      "name_en": "Omer",
+      "gender": "זכר/נקבה",
+      "origin": "עברי",
+      "meaning_he": "עומר — אלומה או מידה מקראית של תבואה.",
+      "etymology_he": "זהה למילה העברית עֹמֶר.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "shimon",
+      "name_he": "שמעון",
+      "name_en": "Shimon",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "הוא שמע / שנשמע.",
+      "etymology_he": "קשור לשורש ש־מ־ע.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "guy",
+      "name_he": "גיא",
+      "name_en": "Guy",
+      "gender": "זכר",
+      "origin": "עברי",
+      "meaning_he": "גיא — עמק צר בין הרים או גבעות.",
+      "etymology_he": "זהה למילה העברית גַּיְא/גַּי.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "yehonatan",
+      "name_he": "יהונתן",
+      "name_en": "Yehonatan",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "ה׳ נתן.",
+      "etymology_he": "שם תאופורי המשלב צורה של שם ה׳ עם הפועל נתן.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "meir",
+      "name_he": "מאיר",
+      "name_en": "Meir",
+      "gender": "זכר",
+      "origin": "עברי",
+      "meaning_he": "מאיר, מפיץ אור.",
+      "etymology_he": "מן הפועל להאיר והשורש א־ו־ר.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "roi",
+      "name_he": "רועי",
+      "name_en": "Roi",
+      "gender": "זכר",
+      "origin": "עברי",
+      "meaning_he": "הרועה שלי.",
+      "etymology_he": "מן המילה רוֹעֶה בצירוף כינוי השייכות ־י.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "eliyahu",
+      "name_he": "אליהו",
+      "name_en": "Eliyahu",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "האל שלי הוא ה׳.",
+      "etymology_he": "שם תאופורי המשלב את ״אלי״ עם צורה של שם ה׳.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "roni",
+      "name_he": "רוני",
+      "name_en": "Roni",
+      "gender": "זכר/נקבה",
+      "origin": "עברי",
+      "meaning_he": "שמחי/הרניני או השמחה שלי, לפי ניתוח השם.",
+      "etymology_he": "קשור לשורש ר־נ־נ ולמילים רינה ורננה; קיימים כמה ניתוחים מקובלים.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "chaya",
+      "name_he": "חיה",
+      "name_en": "Chaya",
+      "gender": "נקבה",
+      "origin": "עברי",
+      "meaning_he": "חיה, בעלת חיים או מי שחיה.",
+      "etymology_he": "מן השורש ח־י־ה ומהמילה חַיָּה.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "yair",
+      "name_he": "יאיר",
+      "name_en": "Yair",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "הוא יאיר / יפיץ אור.",
+      "etymology_he": "מן הפועל להאיר והשורש א־ו־ר.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "michael",
+      "name_he": "מיכאל",
+      "name_en": "Michael",
+      "gender": "זכר",
+      "origin": "עברי/מקראי",
+      "meaning_he": "מי כאל? — שאלה רטורית שמשמעותה שאין כאל.",
+      "etymology_he": "שם תאופורי המורכב מ״מי״, ״כ״ ו״אל״.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "ruth",
+      "name_he": "רות",
+      "name_en": "Ruth",
+      "gender": "נקבה",
+      "origin": "מקראי",
+      "meaning_he": "שם מקראי; מקושר במסורת לרֵעוּת וחברות, אך האטימולוגיה אינה ודאית.",
+      "etymology_he": "הקישור למילה רֵעוּת נפוץ, אך מקורו ההיסטורי של השם אינו מוסכם לחלוטין.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "medium",
+      "status": "draft"
+    },
+    {
+      "id": "ayal",
+      "name_he": "אייל",
+      "name_en": "Ayal",
+      "gender": "זכר",
+      "origin": "עברי",
+      "meaning_he": "אייל — זכר ממשפחת האייליים.",
+      "etymology_he": "זהה למילה העברית אַיָּל.",
+      "sources": [
+        "Wiktionary/Kaikki"
+      ],
+      "confidence": "high",
+      "status": "draft"
+    },
+    {
+      "id": "avigail",
+      "name_he": "אביגיל",
+      "name_en": "Avigail",
+      "gender": "נקבה",
+      "origin": "עברי/מקראי",
+      "meaning_he": "שם מקראי שמקובל לפרשו כ״אבי גיל״ או ״אבי השמחה״.",
+      "etymology_he": "מורכב מן המרכיב ״אבי״ ומרכיב הקשור לגיל/שמחה; ניתוחו המדויק נדון במחקר.",
+      "sources": [
+        "Wiktionary/Kaikki",
+        "DAHPN"
+      ],
+      "confidence": "medium",
       "status": "draft"
     }
   ]
